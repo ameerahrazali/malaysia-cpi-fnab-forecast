@@ -56,7 +56,7 @@ Both models achieved strong forecasting performance. The regression model slight
 
 ### Forecast Model Visualization
 
-![CPI Forecast Plot](plots/forecast_plot.png)
+![CPI Forecast Plot](plots/cpi_forecast.png)
 
 ### Actual vs Forecasted CPI (Sep 2023 – Aug 2024)
 
