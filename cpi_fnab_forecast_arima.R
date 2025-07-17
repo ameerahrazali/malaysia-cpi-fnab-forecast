@@ -108,9 +108,3 @@ forecast112 <- forecast(arima112, h = 24)
 
 # Print the forecasted values
 print(forecast112)
-
-
-
-
-
-
