@@ -54,6 +54,16 @@ This project forecasts the Consumer Price Index (CPI) for Food & Non-Alcoholic B
 
 Both models achieved strong forecasting performance. The regression model slightly outperformed ARIMA in error metrics, likely due to capturing autoregressive lag effects explicitly.
 
+### Forecast Model Visualization
+
+![CPI Forecast Plot](plots/forecast_plot.png)
+
+### Actual vs Forecasted CPI (Sep 2023 – Aug 2024)
+
+The chart below shows actual CPI values compared to forecasted values from both ARIMA and regression models.
+
+![Actual vs Forecast](plots/cpi_actual_vs_forecast.png)
+
 ---
 
 ## Reference Paper
