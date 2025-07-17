@@ -85,4 +85,3 @@ The study focuses on ARIMA-based forecasting of Malaysia’s CPI for Food & Non-
 - Deploy the forecasting model using a dashboard or API for real-time updates.
 - Add confidence intervals to the regression forecast for better risk interpretation.
 
----
