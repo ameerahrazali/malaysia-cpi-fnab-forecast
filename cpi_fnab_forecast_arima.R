@@ -1,11 +1,3 @@
-# install packages
-install.packages("readxl")
-install.packages("tseries")
-install.packages("urca")
-install.packages("forecast")
-install.packages("ggplot2")
-
-
 # prepare the data of CPI of FNAB
 # read the dataset
 library(readxl)
